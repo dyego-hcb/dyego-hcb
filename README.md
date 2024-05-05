@@ -3,7 +3,7 @@ Olá! 👋 Sou Dyego Henrique Costa Braga, um entusiasta de desenvolvimento Java
 **Contato:**
 - 📧 Email: dyego.hcb@gmail.com
 - 📱 Telefone: (34) 9 9920-8912
-- 🔗 LinkedIn: [linkedin.com/in/dyego-henrique-029629220/](https://www.linkedin.com/in/dyego-henrique-029629220/)
+- 🔗 LinkedIn: [linkedin.com/in/dyego-henrique-029629220/](https://www.linkedin.com/in/dyego-henrique-costa-braga-029629220/)
 - 💻 GitHub: [github.com/dyego-hcb](https://github.com/dyego-hcb)
 
 **Habilidades-chave:**
