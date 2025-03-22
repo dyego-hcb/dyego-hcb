@@ -1,6 +1,6 @@
 # Dyego Henrique Costa Braga
 
-Olá! 👋 Sou Dyego Henrique Costa Braga, um desenvolvedor apaixonado por resolver problemas complexos e explorar novas tecnologias. Atualmente, estou expandindo meus conhecimentos em **Full Stack Web/Mobile/Desktop**, **Machine Learning**, **Inteligência Artificial** e **Segurança da Informação**. Localizado em **Monte Carmelo, MG**, estou sempre em busca de desafios que me permitam crescer como profissional e colaborar com equipes inovadoras.
+Olá! 👋 Sou Dyego Henrique Costa Braga, um desenvolvedor apaixonado por resolver problemas complexos e explorar novas tecnologias. Atualmente, estou expandindo meus conhecimentos em **Full Stack Web/Mobile/Desktop**, **Machine Learning**, **Inteligência Artificial** e **Segurança da Informação**. Estou sempre em busca de desafios que me permitam crescer como profissional e colaborar com equipes inovadoras.
 
 ---
 
